@@ -11,3 +11,5 @@ python main.py
 Generates a random set of students subject to constraints customisable in data.py and then decides whether to reject or accept them.
 
 ![alt text](https://github.com/Xifong/Hogwarts_Admissions_Technological_Service/blob/master/HATS_screenshot.png?raw=true)
+
+You'll notice there's still some work to be done on socio-magical mobility!
